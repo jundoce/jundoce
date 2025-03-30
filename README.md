@@ -1,5 +1,2 @@
-@jundoce
+@jundoce%20%20CompSci | CyberSecurity
 
-CompSci | CyberSecurity
-  - 1st Year
-  
