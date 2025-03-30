@@ -1,4 +1,5 @@
 @jundoce
-| blacklight
 
-interested in cybersec / music production
+CompSci | CyberSecurity
+  - 1st Year
+  
