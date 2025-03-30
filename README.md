@@ -1,2 +1,4 @@
-@jundoce // CompSci | CyberSecurity
+@jundoce 
+
+CompSci | CyberSecurity
 
